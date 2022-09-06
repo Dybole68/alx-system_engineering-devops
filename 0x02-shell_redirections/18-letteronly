@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep ^[[:Alpha:]] /etc/passwd
+egrep ^[[:Alpha:]] /etc/ssh/
